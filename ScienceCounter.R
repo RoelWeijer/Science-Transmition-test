@@ -7,3 +7,6 @@ Science_transceiver = 1
 
 Total_Scientists = Science_transmitters + Science_receivers + Science_transceiver
 
+Chairs = 20
+
+Room_open = Chairs - Total_Scientists
